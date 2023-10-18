@@ -1,0 +1,949 @@
+body {
+    overflow-x: hidden;
+  }
+.photo1 {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 85%;
+    top: 0%;
+    left: 0%;
+}
+.text1 {
+    text-align: left;
+    position: relative;
+    font-size: 30px;
+    top: 8%;
+    left: 37%;
+    color: white;
+    font-family: arial;
+}
+.container1 {
+    position: absolute;
+    background-color: orange;
+    top: 5%;
+    left: 57%;
+    width: 0.7%;
+    height: 58%;
+    text-align: center;
+}
+.text2 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -2%;
+    left: 59%;
+    color: rgb(220, 220, 220)
+}
+.text3 {
+    text-align: left;
+    position: absolute;
+    font-size: 14px;
+    top: 27%;
+    left: 59%;
+    color: rgb(220, 220, 220)
+}
+.button1 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    position: relative;
+    top: 7%;
+    left: 59%;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.text4 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 3.3%;
+    left: 60.8%;
+    color: black;
+    cursor: pointer;
+}
+.container2 {
+    position: absolute;
+    background-color: rgb(220, 220, 220);
+    top: 85%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+.container3 {
+    position: absolute;
+    background-color: white;
+    top: 82%;
+    left: 23%;
+    width: 17%;
+    height: 23%;
+    text-align: center;
+}
+.container4 {
+    position: absolute;
+    background-color: white;
+    top: 82%;
+    left: 40.5%;
+    width: 17%;
+    height: 23%;
+    text-align: center;
+}
+.container5 {
+    position: absolute;
+    background-color: white;
+    top: 82%;
+    left: 58%;
+    width: 17%;
+    height: 23%;
+    text-align: center;
+}
+.circle1{
+    width: 55px;
+    height: 55px;
+    background-color: orange;
+    border-radius: 50%;
+    position: absolute;
+    top: 83%;
+    left: 30%;
+}
+.circle2{
+    width: 55px;
+    height: 55px;
+    background-color: orange;
+    border-radius: 50%;
+    position: absolute;
+    top: 83%;
+    left: 47%;
+}
+.circle3{
+    width: 55px;
+    height: 55px;
+    background-color: orange;
+    border-radius: 50%;
+    position: absolute;
+    top: 83%;
+    left: 64.6%;
+}
+.text5 {
+    text-align: center;
+    position: relative;
+    font-size: 16px;
+    top: 60%;
+    left: -18.3%;
+    color: black;
+}
+.text6 {
+    text-align: center;
+    position: relative;
+    font-size: 16px;
+    top: 57%;
+    left: -0.8%;
+    color: black;
+}
+.text7 {
+    text-align: center;
+    position: relative;
+    font-size: 16px;
+    top: 54.5%;
+    left: 16.85%;
+    color: black;
+}
+.text8 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 55.5%;
+    left: -18.65%;
+    color: gray;
+}
+.text9 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 48.9%;
+    left: -0.9%;
+    color: gray;
+}
+.text10 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 42.2%;
+    left: 16.5%;
+    color: gray;
+}
+.container6 {
+    position: absolute;
+    background-color: orange;
+    top: 110%;
+    left: 0%;
+    width: 100%;
+    height: 90%;
+    text-align: center;
+}
+.gray-circle{
+    width: 130px;
+    height: 130px;
+    background-color: rgb(197, 197, 197);
+    border-radius: 50%;
+    position: relative;
+    top: 7%;
+    left: 58%;
+}
+.shaded-circle{
+    position: absolute;
+    top: 45%;
+    left: 23.8%;
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 50%;
+    background-image: linear-gradient(to top , transparent 20%,orange  20%);
+    background-size: 17px 17px;
+    transform: rotate(140deg);
+}
+.photo2 {
+    position: absolute;
+    text-align: center;
+    width: 38%;
+    height: 43%;
+    top: 16%;
+    left: 27%;
+}
+.container7 {
+    position: relative;
+    background-color: white;
+    top: 19%;
+    left: 55%;
+    width: 20%;
+    height: 50%;
+    text-align: center;
+}
+.text11 {
+    text-align: left;
+    position: relative;
+    font-size: 32px;
+    top: -26.8%;
+    left: 56.3%;
+    color: black;
+}
+.text12 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -23%;
+    left: 56.3%;
+    color: gray;
+}
+.button2 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    position: absolute;
+    top: 182%;
+    left: 57%;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.tex13 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 2%;
+    left: 45%;
+    color: black;
+    cursor: pointer;
+}
+.container8 {
+    position: absolute;
+    background-color: rgb(220, 220, 220);
+    top: 200%;
+    left: 0%;
+    width: 100%;
+    height: 230%;
+    text-align: center;
+}
+.container9 {
+    position: absolute;
+    background-color: white;
+    top: 10%;
+    left: 25%;
+    width: 23%;
+    height: 7%;
+    text-align: center;
+}
+.text14 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -37%;
+    left: 19.5%;
+    color: gray;
+}
+.container10 {
+    position: relative;
+    background-color: orange;
+    top: 14%;
+    left: 3%;
+    width: 10%;
+    height: 55%;
+    text-align: center;
+}
+.container11 {
+    position: absolute;
+    background-color: white;
+    top: 10%;
+    left: 50%;
+    width: 23%;
+    height: 7%;
+    text-align: center;
+}
+.text15 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -37%;
+    left: 53%;
+    color: gray;
+}
+.container12 {
+    position: relative;
+    background-color: orange;
+    top: 14%;
+    left: 3%;
+    width: 10%;
+    height: 55%;
+    text-align: center;
+}
+.container13 {
+    position: absolute;
+    background-color: white;
+    top: 19%;
+    left: 25%;
+    width: 23%;
+    height: 7%;
+    text-align: center;
+}
+.text16 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -37%;
+    left: 20%;
+    color: gray;
+}
+.container14 {
+    position: relative;
+    background-color: orange;
+    top: 14%;
+    left: 3%;
+    width: 10%;
+    height: 55%;
+    text-align: center;
+}
+.container15 {
+    position: absolute;
+    background-color: white;
+    top: 19%;
+    left: 50%;
+    width: 23%;
+    height: 7%;
+    text-align: center;
+}
+.text17 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: -37%;
+    left: 20%;
+    color: gray;
+}
+.container16 {
+    position: relative;
+    background-color: orange;
+    top: 14%;
+    left: 3%;
+    width: 10%;
+    height: 55%;
+    text-align: center;
+}
+.photo3 {
+    position: absolute;
+    text-align: center;
+    width: 20%;
+    height: 17%;
+    top: 38.2%;
+    left: 23.5%;
+}
+.photo4 {
+    position: absolute;
+    text-align: center;
+    width: 30%;
+    height: 18%;
+    top: 42%;
+    left: 50%;
+}
+.photo5 {
+    position: absolute;
+    text-align: center;
+    width: 20%;
+    height: 17%;
+    top: 58%;
+    left: 36.5%;
+}
+.photo6 {
+    position: absolute;
+    text-align: center;
+    width: 20%;
+    height: 17%;
+    top: 66%;
+    left: 60%;
+}
+.container17 {
+    position: absolute;
+    background-color: white;
+    top: 31.5%;
+    left: 37.5%;
+    width: 25%;
+    height: 15%;
+    text-align: center;
+}
+.text18 {
+    text-align: center;
+    position: relative;
+    font-size: 32px;
+    top: 8%;
+    left: -11%;
+    color: black;
+}
+.text19 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 15%;
+    left: -28%;
+    color: gray;
+}
+.text20 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: 20%;
+    left: 7%;
+    color: gray;
+}
+.button3 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    position: absolute;
+    top: 75%;
+    left: 7%;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.text21 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 2%;
+    left: 18%;
+    color: black;
+    cursor: pointer;
+}
+.container18 {
+    position: absolute;
+    background-color: gray;
+    top: 290%;
+    left: -54%;
+    width: 1.7%;
+    height: 60%;
+    text-align: center;
+}
+.text22 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: 260%;
+    left: -45%;
+    color: gray;
+}
+.container19 {
+    position: absolute;
+    background-color: orange;
+    top: 87%;
+    left: 0%;
+    width: 100%;
+    height: 40%;
+    text-align: center;
+}
+.gray-circle2{
+    width: 130px;
+    height: 130px;
+    background-color: rgb(197, 197, 197);
+    border-radius: 50%;
+    position: relative;
+    top: 7%;
+    left: 58%;
+}
+.container20 {
+    position: absolute;
+    background-color: rgb(220, 220, 220);
+    top: 45%;
+    left: 37%;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+.photo7 {
+    position: absolute;
+    text-align: center;
+    width: 22%;
+    height: 60%;
+    top: 8%;
+    left: 26%;
+}
+.container21 {
+    position: absolute;
+    background-color: white;
+    top: 93%;
+    left: 45%;
+    width: 18%;
+    height: 18%;
+    text-align: center;
+}
+.shaded-circle2{
+    position: absolute;
+    top: 51%;
+    left: 23%;
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 50%;
+    background-image: linear-gradient(to top , transparent 20%,orange  20%);
+    background-size: 17px 17px;
+    transform: rotate(140deg);
+}
+.text23 {
+    text-align: left;
+    position: relative;
+    font-size: 32px;
+    top: 6%;
+    left: 5%;
+    color: black;
+}
+.text24 {
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    top: 15%;
+    left: 5%;
+    color: gray;
+}
+.text25 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 19.5%;
+    left: -23.5%;
+    color: gray;
+    cursor: pointer;
+}
+.button4 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    position: absolute;
+    top: 80.7%;
+    left: 5%;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.text26 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 2%;
+    left: 18%;
+    color: black;
+    cursor: pointer;
+}
+.container22 {
+    position: absolute;
+    background-color: rgb(220, 220, 220);
+    top: 122%;
+    left: 0%;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+}
+.photo8 {
+    position: absolute;
+    text-align: center;
+    width: 28.5%;
+    height: 20%;
+    top: 10.7%;
+    left: 39.5%;
+}
+.photo9 {
+    position: absolute;
+    text-align: center;
+    width: 23%;
+    height: 13%;
+    top: 7%;
+    left: 21%;
+}
+.photo10 {
+    position: absolute;
+    text-align: center;
+    width: 14%;
+    height: 23%;
+    top: 36%;
+    left: 54%;
+}
+.photo11 {
+    position: absolute;
+    text-align: center;
+    width: 23%;
+    height: 17%;
+    top: 39%;
+    left: 21.5%;
+}
+.container23 {
+    position: absolute;
+    background-color: white;
+    top: 25.5%;
+    left: 29%;
+    width: 19%;
+    height: 20%;
+    text-align: center;
+}
+.text27 {
+    text-align: center;
+    position: relative;
+    font-size: 32px;
+    top: 8%;
+    left: -10.5%;
+    color: black;
+}
+.text28 {
+    text-align: left;
+    position: absolute;
+    font-size: 12px;
+    top: 25%;
+    left: 6%;
+    color: gray;
+}
+.text29 {
+    text-align: center;
+    position: absolute;
+    font-size: 13px;
+    top: 57%;
+    left: 6%;
+    color: gray;
+}
+.button5 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    position: absolute;
+    top: 76%;
+    left: 5%;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.text30 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 2%;
+    left: 18%;
+    color: black;
+    cursor: pointer;
+}
+.container24 {
+    position: absolute;
+    background-color: orange;
+    width: 100%;
+    height: 45%;
+    top: 174%;
+    left: 0%;
+}
+.container25 {
+    position: absolute;
+    background-color: white;
+    width: 37%;
+    height: 75%;
+    top: 10%;
+    left: 39%;
+}
+.text31 {
+    text-align: center;
+    position: relative;
+    font-size: 35px;
+    top: 15%;
+    left: -2%;
+    color: black;
+}
+.name {
+    position: absolute;
+    top: 31%;
+    left: 44%;
+    width: 370px;
+    height: 31px;
+}
+.name-input {
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-color: rgb(228, 228, 228);
+    border: none;
+    letter-spacing: 1px;
+    padding-left: 5px;
+}
+.email {
+    position: absolute;
+    top: 39%;
+    left: 44%;
+    width: 370px;
+    height: 31px;
+}
+.email-input {
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-color: rgb(228, 228, 228);
+    border: none;
+    letter-spacing: 1px;
+    padding-left: 5px;
+}
+.none {
+    position: absolute;
+    top: 47%;
+    left: 44%;
+    width: 370px;
+    height: 120px;
+}
+.none-input {
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-color: rgb(228, 228, 228);
+    border: none;
+    letter-spacing: 1px;
+    padding-left: 5px;
+}
+.button6 {
+    width: 370px;
+    height: 35px;
+    background-color: orange;
+    position: absolute;
+    top: 68%;
+    left: 44%;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.text32 {
+    text-align: left;
+    position: relative;
+    font-size: 11px;
+    top: 2%;
+    left: 43%;
+    color: black;
+    cursor: pointer;
+}
+.container26 {
+    position: absolute;
+    background-color: rgb(105, 105, 105);
+    width: 13%;
+    height: 25%;
+    top: 17%;
+    left: 29%
+}
+.photo12 {
+    position: absolute;
+    text-align: center;
+    width: 55px;
+    height: 55px;
+    top: 10%;
+    left: 34%;
+}
+.text33 {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    top: 49%;
+    left: 1%;
+    color: white;
+}
+.text34 {
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    top: 55%;
+    left: 1%;
+    color: rgb(220, 220, 220);
+}
+.container27 {
+    position: absolute;
+    background-color: rgb(105, 105, 105);
+    width: 13%;
+    height: 22%;
+    top: 45%;
+    left: 29%
+}
+.photo13 {
+    position: absolute;
+    text-align: center;
+    width: 55px;
+    height: 55px;
+    top: 10%;
+    left: 34%;
+}
+.text35 {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    top: 49%;
+    left: 1%;
+    color: white;
+}
+.text36 {
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    top: 58%;
+    left: 1%;
+    color: orange;
+}
+.container28 {
+    position: absolute;
+    background-color: rgb(105, 105, 105);
+    width: 13%;
+    height: 25%;
+    top: 17%;
+    left: 14%
+}
+.photo14 {
+    position: absolute;
+    text-align: center;
+    width: 95px;
+    height: 95px;
+    top: 0%;
+    left: 25%;
+}
+.text37 {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    top: 49%;
+    left: 1%;
+    color: white;
+}
+.text38 {
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    top: 55%;
+    left: 1%;
+    color: rgb(220, 220, 220);
+}
+.container29 {
+    position: absolute;
+    background-color: rgb(105, 105, 105);
+    width: 13%;
+    height: 22%;
+    top: 45%;
+    left: 14%
+}
+.photo15 {
+    position: absolute;
+    text-align: center;
+    width: 55px;
+    height: 55px;
+    top: 10%;
+    left: 34%;
+}
+.text39 {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    top: 49%;
+    left: 1%;
+    color: white;
+}
+.text40 {
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    top: 58%;
+    left: 1%;
+    color: rgb(220, 220, 220);
+}
+.container30 {
+    position: absolute;
+    background-color: rgb(105, 105, 105);
+    width: 100%;
+    height: 13%;
+    top: 215%;
+    left: 0%;
+}
+.text41 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 10%;
+    left: 0.5%;
+    color: white;
+}
+.text42 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 50%;
+    left: -7%;
+    color:dodgerblue;
+}
+.text43 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 43%;
+    left: -0.8%;
+    color:white;
+}
+.text44 {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    top: 35.7%;
+    left: 6.8%;
+    color:dodgerblue;
+}
